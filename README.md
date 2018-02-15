@@ -8,5 +8,5 @@ Aluno Weslley Lioba Caldas
 
 Mestrado e Doutorado em Ciências da  Computação(MDCC) 
 
-Implementação dos Mínimos Quadrados Ordinário
+Implementação das redes neurais ELM e MLP
 
